@@ -10,7 +10,7 @@ Detailed documentation is in the "docs" directory.
 Install package
 ---------------
 
-Pour installer le paquet, utilisez pip::
+Use pip::
 
  python -m pip install --user ../django-polls/dist/django-polls-0.1.tar.gz
 
